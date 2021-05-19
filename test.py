@@ -1,0 +1,2 @@
+import scqubits
+sctest.run()
